@@ -1,2 +1,10 @@
 this is my file 2 to git
 this is testgit sts
+
+Git is a distributed version con
+trol system used for tracking changes in 
+source code during software development. It 
+enables multiple developers to collaborate on
+ projects efficiently by managing different versions 
+ of files and allowing 
+for non-linear development through branching and merging.
